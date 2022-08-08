@@ -2,7 +2,5 @@
 - 👀 My Brand New LeetCode Profile :https://leetcode.com/bibhuti9/  👀 
 - 📫 How to reach me follow me in linkedin https://www.linkedin.com/in/bibhuti-swain/
 
-<!---
-bibhuti9/bibhuti9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="bibhuti-swain" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/bibhuti-swain?trk=profile-badge">bibhuti swain</a></div>
