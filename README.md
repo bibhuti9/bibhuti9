@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bibhuti9
--👀 My Brand New LeetCode Profile :https://leetcode.com/bibhuti9/  👀 
+- 👀 My Brand New LeetCode Profile :https://leetcode.com/bibhuti9/  👀 
 - 📫 How to reach me follow me in linkedin https://www.linkedin.com/in/bibhuti-swain/
 
 <!---
