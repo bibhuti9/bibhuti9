@@ -4,6 +4,7 @@
 * Accumulated **3 years of professional experience**
 * Equipped with a **MacBook Pro 14** with the latest OS version
 * My Blogs : https://medium.com/@bibhuti9
+* Linked In : https://www.linkedin.com/in/bibhuti-swain/
 * Problem-solving skills [**Leetcode**](https://leetcode.com/bibhuti9/)
 
 
