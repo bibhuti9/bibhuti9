@@ -3,9 +3,10 @@
 * I'm a full stack software engineer.
 * Accumulated **3 years of professional experience**
 * Equipped with a **MacBook Pro 14** with the latest OS version
-* My Blogs : https://medium.com/@bibhuti9
-* Linked In : https://www.linkedin.com/in/bibhuti-swain/
-* Problem-solving skills [**Leetcode**](https://leetcode.com/bibhuti9/)
+* My Blogs : [**Medium**](https://medium.com/@bibhuti9)
+* LinkedIn : [**linkedin**](https://www.linkedin.com/in/bibhuti-swain/)
+* Projects: [**Projects**](https://bibhuti.vercel.app/portfolio)
+* Problem-solving: [**Leetcode**](https://leetcode.com/bibhuti9/)
 
 
 <div align="center">
@@ -17,16 +18,18 @@
 ## React Native Projects
 
 ```bash
-  * Aifluencer (Website)
-  * Walkme
+  * Aifluencer 
+  * Lets hang
   * Squad App
+  * Sanatan Dharmaya
   * Tudub
 ```
 
 ## Key Features of React Native Expo
 ```bash
   * expo.dev
-  * Automated CI/CD for App Store and Google Play
+  * OTA ( On The Air )
+  * Automated CI/CD to App Store and Google Play
   * Support for all Expo SDKs
   * Fastlane
 ```
@@ -60,6 +63,18 @@
   * Sanatan Dharmaya Admin
 ```
 
+## Programming Expertise:
+```bash
+  * React Native
+  * Flutter 
+  * Node.js
+  * React
+  * Laravel
+  * TypeScript
+  * JavaScript
+  * MongoDB
+```
+
 ## Development Tools:
 ```bash
   * Firebase Emulator
@@ -71,14 +86,12 @@
   * Project Management using Jira, Click, and Shortcut
 ```
 
-## Programming Expertise:
+## Code Quality
 ```bash
-  * Node.js
-  * React
-  * Laravel
-  * TypeScript
-  * JavaScript
-  * MongoDB
+  * Husky
+  * Prettier
+  * Eslint
+  * Jest
 ```
 
 ## Communication Channels:
@@ -89,9 +102,6 @@
 ```
 
 
-
-## Other Technology
-<code><img height="20" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> <code><img height="20" alt="Firebase" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
 | <a href="https://github.com/bibhuti9/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bibhuti9&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Bibhuti's github stats" /></a> | <a href="https://github.com/bibhuti9/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibhuti9&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
