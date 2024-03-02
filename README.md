@@ -94,6 +94,13 @@
   * Jest
 ```
 
+## AI Toold to improve code
+```bash
+  * Github Copilot
+  * ChatPT
+  * Gemini
+```
+
 ## Communication Channels:
 ```bash
   * Skype
