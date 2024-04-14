@@ -6,7 +6,6 @@
 * My Blogs : [**Medium**](https://medium.com/@bibhuti9)
 * LinkedIn : [**linkedin**](https://www.linkedin.com/in/bibhuti-swain/)
 * Projects: [**Projects**](https://bibhuti.vercel.app/portfolio)
-* Problem-solving: [**Leetcode**](https://leetcode.com/bibhuti9/)
 
 
 <div align="center">
