@@ -33,6 +33,13 @@
   * Fastlane
 ```
 
+## Monorepo:
+```bash
+  * Yarn
+  * Nx
+  * Turbo
+```
+
 ## In-App Purchases (IAP):
 ```bash
   * Revenuecat (Webhook)
