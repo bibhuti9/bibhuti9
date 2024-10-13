@@ -27,11 +27,15 @@
 
 ## Key Features of React Native Expo
 ```bash
+  * Expo router
   * expo.dev
-  * OTA ( On The Air )
+  * OTA
   * Automated CI/CD to App Store and Google Play
   * Support for all Expo SDKs
   * Fastlane
+  * Payment SDK
+  * In app subscription
+  * Live streaming
 ```
 
 ## Monorepo:
