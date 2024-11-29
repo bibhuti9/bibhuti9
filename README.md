@@ -1,7 +1,6 @@
 ## About my self 👨‍💻
 
-* I'm a full stack software engineer.
-* Accumulated **7 years of professional experience**
+* I'm a Sr. Software Engineer.
 * Equipped with a **MacBook Pro 14** with the latest OS version
 * My Blogs : [**Medium**](https://medium.com/@bibhuti9)
 * LinkedIn : [**linkedin**](https://www.linkedin.com/in/bibhuti-swain/)
