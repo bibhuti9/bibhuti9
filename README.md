@@ -4,7 +4,6 @@
 * Equipped with a **MacBook Pro 14** with the latest OS version
 * My Blogs : [**Medium**](https://medium.com/@bibhuti9)
 * LinkedIn : [**linkedin**](https://www.linkedin.com/in/bibhuti-swain/)
-* Projects: [**Projects**](https://bibhuti.vercel.app/portfolio)
 
 
 
@@ -12,12 +11,13 @@
 ## React Native Projects
 
 ```bash
-  * Mia
-  * Aifluencer 
-  * Lets hang
-  * Squad App
-  * Sanatan Dharmaya
-  * Tudub
+  * Mia: https://heymia.ai/
+  * Lompa: https://apps.apple.com/us/app/lompa-marketplace/id6739612830
+  * Temptrack: https://app.temptrack.mightybyte.us/enterUrl
+  * Aifluencer: https://ainfluencer.com/
+  * Lets hang: https://letshang.co/
+  * Squad App: https://apps.apple.com/us/app/hypr-wallet-squadapp/id1583751406
+  * Experteas: 
 ```
 
 ## Key Features of React Native Expo
