@@ -26,5 +26,3 @@
 ### ✍️ Writing
 
 Articles on React Native and mobile engineering: [medium.com/@bibhuti9](https://medium.com/@bibhuti9)
-
-<sub>Profile card refreshes daily via GitHub Actions · design inspired by <a href="https://github.com/Andrew6rant/Andrew6rant">Andrew6rant</a></sub>
