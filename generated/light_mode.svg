@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="460" viewBox="0 0 1000 460" font-family="'Cascadia Code','Consolas','Menlo','DejaVu Sans Mono',monospace" font-size="12">
+  <rect x="0.5" y="0.5" width="999" height="459" rx="8" fill="#ffffff" stroke="#d0d7de"/>
+
+  <!-- window dots -->
+  <circle cx="24" cy="22" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="22" r="6" fill="#ffbd2e"/>
+  <circle cx="64" cy="22" r="6" fill="#27c93f"/>
+
+  <!-- left: ascii banner -->
+  <text x="35" y="80" xml:space="preserve" font-size="11" fill="#087ea4">
+    <tspan x="35" dy="0">██████╗ ██╗██████╗ ██╗  ██╗██╗   ██╗████████╗██╗</tspan>
+    <tspan x="35" dy="13">██╔══██╗██║██╔══██╗██║  ██║██║   ██║╚══██╔══╝██║</tspan>
+    <tspan x="35" dy="13">██████╔╝██║██████╔╝███████║██║   ██║   ██║   ██║</tspan>
+    <tspan x="35" dy="13">██╔══██╗██║██╔══██╗██╔══██║██║   ██║   ██║   ██║</tspan>
+    <tspan x="35" dy="13">██████╔╝██║██████╔╝██║  ██║╚██████╔╝   ██║   ██║</tspan>
+    <tspan x="35" dy="13">╚═════╝ ╚═╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝</tspan>
+    <tspan x="35" dy="26">███████╗██╗    ██╗ █████╗ ██╗███╗   ██╗</tspan>
+    <tspan x="35" dy="13">██╔════╝██║    ██║██╔══██╗██║████╗  ██║</tspan>
+    <tspan x="35" dy="13">███████╗██║ █╗ ██║███████║██║██╔██╗ ██║</tspan>
+    <tspan x="35" dy="13">╚════██║██║███╗██║██╔══██║██║██║╚██╗██║</tspan>
+    <tspan x="35" dy="13">███████║╚███╔███╔╝██║  ██║██║██║ ╚████║</tspan>
+    <tspan x="35" dy="13">╚══════╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝</tspan>
+  </text>
+  <text x="35" y="292" xml:space="preserve" fill="#57606a">
+    <tspan x="35" dy="0">──────────────────────────────────────</tspan>
+    <tspan x="35" dy="20" fill="#24292f">Senior React Native Developer</tspan>
+    <tspan x="35" dy="18" fill="#24292f">Full-Stack · SaaS · AI Integration</tspan>
+    <tspan x="35" dy="18" fill="#24292f">15+ apps shipped to the stores</tspan>
+    <tspan x="35" dy="20">──────────────────────────────────────</tspan>
+  </text>
+
+  <!-- right: neofetch info -->
+  <text x="420" y="55" xml:space="preserve" font-weight="bold" fill="#0969da">bibhuti@swain <tspan fill="#57606a" font-weight="normal">──────────────────────────────────────────</tspan></text>
+
+  <text x="420" y="78" fill="#953800">OS:</text><text x="530" y="78" fill="#24292f">macOS (MacBook Pro 14) · iOS · Android</text>
+  <text x="420" y="96" fill="#953800">Uptime:</text><text x="530" y="96" fill="#24292f">8 years, 6 months, 10 days on GitHub</text>
+  <text x="420" y="114" fill="#953800">Host:</text><text x="530" y="114" fill="#24292f">Freelance · Remote · India</text>
+  <text x="420" y="132" fill="#953800">Kernel:</text><text x="530" y="132" fill="#24292f">React Native + Expo</text>
+  <text x="420" y="150" fill="#953800">IDE:</text><text x="530" y="150" fill="#24292f">Cursor, VS Code</text>
+
+  <text x="420" y="180" fill="#953800">Languages.Programming:</text><text x="600" y="180" fill="#24292f">TypeScript, JavaScript, SQL</text>
+  <text x="420" y="198" fill="#953800">Frameworks.Mobile:</text><text x="600" y="198" fill="#24292f">React Native, Expo</text>
+  <text x="420" y="216" fill="#953800">Frameworks.Web:</text><text x="600" y="216" fill="#24292f">React, Next.js, Node.js</text>
+  <text x="420" y="234" fill="#953800">Databases:</text><text x="600" y="234" fill="#24292f">PostgreSQL, MongoDB, Supabase, Firebase</text>
+  <text x="420" y="252" fill="#953800">Cloud.DevOps:</text><text x="600" y="252" fill="#24292f">AWS, GCP, GitHub Actions</text>
+
+  <text x="420" y="284" xml:space="preserve" font-weight="bold" fill="#0969da">Contact <tspan fill="#57606a" font-weight="normal">────────────────────────────────────────────────</tspan></text>
+  <text x="420" y="306" fill="#953800">Medium:</text><text x="530" y="306" fill="#24292f">medium.com/@bibhuti9</text>
+  <text x="420" y="324" fill="#953800">GitHub:</text><text x="530" y="324" fill="#24292f">github.com/bibhuti9</text>
+  <text x="420" y="342" fill="#953800">Apps.Live:</text><text x="530" y="342" fill="#24292f">heymia.ai · letshang.co · gleans.me</text>
+
+  <text x="420" y="374" xml:space="preserve" font-weight="bold" fill="#0969da">GitHub Stats <tspan fill="#57606a" font-weight="normal">───────────────────────────────────────────</tspan></text>
+  <text x="420" y="396" fill="#953800">Repos:</text><text x="530" y="396" fill="#24292f">76 (Contributed: 3)</text>
+  <text x="720" y="396" fill="#953800">Stars:</text><text x="810" y="396" fill="#24292f">32</text>
+  <text x="420" y="414" fill="#953800">Commits:</text><text x="530" y="414" fill="#24292f">353</text>
+  <text x="720" y="414" fill="#953800">Followers:</text><text x="810" y="414" fill="#24292f">4</text>
+  <text x="420" y="432" fill="#953800">Lines.of.Code:</text><text x="530" y="432" fill="#24292f" xml:space="preserve">1,746,687 ( <tspan fill="#1a7f37">1,810,171++</tspan>, <tspan fill="#cf222e">63,484--</tspan> )</text>
+
+  <text x="965" y="448" text-anchor="end" font-size="9" fill="#57606a">last refresh 2026-08-20 16:58 UTC</text>
+</svg>

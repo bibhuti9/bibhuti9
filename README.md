@@ -1,126 +1,30 @@
-## About my self 👨‍💻
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="generated/dark_mode.svg">
+  <source media="(prefers-color-scheme: light)" srcset="generated/light_mode.svg">
+  <img alt="Bibhuti Swain — Senior React Native Developer. Terminal-style profile card with live GitHub stats." src="generated/dark_mode.svg">
+</picture>
 
-* I'm a Sr. Software Engineer.
-* Equipped with a **MacBook Pro 14** with the latest OS version
+### 📱 Featured React Native work
 
+| App | What it is |
+| --- | --- |
+| [Mia](https://heymia.ai/) | AI companion app |
+| [Lets Hang](https://letshang.co/) | Social hangout planning |
+| [Gleans](https://gleans.me) | Knowledge sharing |
+| [Ainfluencer](https://ainfluencer.com/) | AI influencer marketplace |
+| [Lompa Marketplace](https://apps.apple.com/us/app/lompa-marketplace/id6739612830) | iOS marketplace app |
+| [Squad App](https://apps.apple.com/us/app/hypr-wallet-squadapp/id1583751406) | HYPR wallet companion |
+| [Temptrack](https://app.temptrackapp.com) | Workforce management |
 
+### 🛠️ What I work with
 
+- **Mobile** — React Native, Expo (Router, OTA/EAS, Fastlane), Flutter, in-app purchases (RevenueCat, native IAP), payments (Stripe, Apple Pay, Google Pay), live streaming
+- **Web & backend** — React, Next.js, Node.js, TypeScript, Laravel
+- **Data & auth** — PostgreSQL, MongoDB, Supabase, Firebase (Functions, Auth, Emulator)
+- **Tooling** — Monorepos (Nx, Turbo, Yarn), CI/CD to App Store & Google Play, Husky + ESLint + Prettier + Jest, AI-assisted development (Cursor, Copilot)
 
-## React Native Projects
+### ✍️ Writing
 
-```bash
-  * Mia: https://heymia.ai/
-  * Lompa: https://apps.apple.com/us/app/lompa-marketplace/id6739612830
-  * Temptrack: https://app.temptrack.mightybyte.us/enterUrl
-  * Aifluencer: https://ainfluencer.com/
-  * Lets hang: https://letshang.co/
-  * Squad App: https://apps.apple.com/us/app/hypr-wallet-squadapp/id1583751406
-  * Experteas: 
-```
+Articles on React Native and mobile engineering: [medium.com/@bibhuti9](https://medium.com/@bibhuti9)
 
-## Key Features of React Native Expo
-```bash
-  * Expo router
-  * expo.dev
-  * OTA
-  * Automated CI/CD to App Store and Google Play
-  * Support for all Expo SDKs
-  * Fastlane
-  * Payment SDK
-  * In app subscription
-  * Live streaming
-```
-
-## Monorepo:
-```bash
-  * Yarn
-  * Nx
-  * Turbo
-```
-
-## In-App Purchases (IAP):
-```bash
-  * Revenuecat (Webhook)
-  * Native IAP (App Store, Google Play)
-  * Stripe
-```
-
-## Payment Integration:
-```bash
-  * Apple Pay
-  * Google Pay
-  * Stripe
-```
-
-## State Management:
-```bash
-  * Redux
-  * MobX
-  * Recoil
-```
-
-## React Projects:
-```bash
-  * Team.viadm.co
-  * Manager.viadm.co Dashboard
-  * viaDM - Best Digital Marketing via Instagram DM
-  * Sanatan Dharmaya Admin
-```
-
-## Programming Expertise:
-```bash
-  * React Native
-  * Flutter 
-  * Node.js
-  * React
-  * Laravel
-  * TypeScript
-  * JavaScript
-  * MongoDB
-```
-
-## Development Tools:
-```bash
-  * Firebase Emulator
-  * Firebase Functions
-  * Firebase Authentication (Email, Facebook, Apple, Phone)
-  * Git (Active open-source contributor)
-  * Hosting with Vercel and Render
-  * Version Control via GitHub/GitLab
-  * Project Management using Jira, Click, and Shortcut
-```
-
-## Code Quality
-```bash
-  * Husky
-  * Prettier
-  * Eslint
-  * Jest
-```
-
-## AI Toold to improve code
-```bash
-  * Github Copilot
-  * ChatPT
-  * Gemini
-```
-
-## Communication Channels:
-```bash
-  * Skype
-  * Slack
-  * Discord
-```
-
-
-
-| <a href="https://github.com/bibhuti9/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bibhuti9&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Bibhuti's github stats" /></a> | <a href="https://github.com/bibhuti9/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibhuti9&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-
-<br />
-<br />
-
-<div id="header" align="center">  
-
-</div>
+<sub>Profile card refreshes daily via GitHub Actions · design inspired by <a href="https://github.com/Andrew6rant/Andrew6rant">Andrew6rant</a></sub>
